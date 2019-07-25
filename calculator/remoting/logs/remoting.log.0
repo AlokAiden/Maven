@@ -1,0 +1,27 @@
+Jul 25, 2019 11:27:48 PM hudson.remoting.jnlp.Main createEngine
+INFO: Setting up agent: CI~MVN
+Jul 25, 2019 11:27:48 PM hudson.remoting.jnlp.Main$CuiListener <init>
+INFO: Jenkins agent is running in headless mode.
+Jul 25, 2019 11:27:48 PM hudson.remoting.Engine startEngine
+INFO: Using Remoting version: 3.29
+Jul 25, 2019 11:27:48 PM org.jenkinsci.remoting.engine.WorkDirManager initializeWorkDir
+INFO: Using D:\Devops\maven\Maven\calculator\remoting as a remoting work directory
+Jul 25, 2019 11:27:49 PM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+Jul 25, 2019 11:27:49 PM org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver resolve
+INFO: Remoting server accepts the following protocols: [JNLP4-connect, Ping]
+Jul 25, 2019 11:27:49 PM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Agent discovery successful
+  Agent address: localhost
+  Agent port:    50793
+  Identity:      d3:50:1f:ce:17:45:0c:1c:77:0c:bc:a9:21:48:f2:69
+Jul 25, 2019 11:27:49 PM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Handshaking
+Jul 25, 2019 11:27:49 PM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Connecting to localhost:50793
+Jul 25, 2019 11:27:49 PM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Trying protocol: JNLP4-connect
+Jul 25, 2019 11:27:51 PM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Remote identity confirmed: d3:50:1f:ce:17:45:0c:1c:77:0c:bc:a9:21:48:f2:69
+Jul 25, 2019 11:27:52 PM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Connected
